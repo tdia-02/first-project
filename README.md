@@ -1,0 +1,1 @@
+This is my first project for the Codédex Beginner Course. It's a small app where you can play Rock-Paper-Scissors.
